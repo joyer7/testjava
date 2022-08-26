@@ -1,0 +1,14 @@
+com.fasterxml.jackson.core:jackson-core:2.13.1
+com.fasterxml.jackson.core:jackson-databind:2.13.1
+com.fasterxml.jackson.datatype:jackson-datatype-hibernate5:2.13.1
+com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.13.1
+com.fasterxml.jackson.module:jackson-module-kotlin:2.13.1
+com.google.cloud.tools.jib:com.google.cloud.tools.jib.gradle.plugin:3.2.1
+com.googlecode.mp4parser:isoparser:1.1.22
+com.h2database:h2:2.1.210
+com.querydsl:querydsl-apt:5.0.0:jpa
+com.querydsl:querydsl-jpa:5.0.0
+com.squareup.okhttp3:okhttp:4.9.3
+com.unboundid:unboundid-ldapsdk:6.0.4
+commons-io:commons-io:2.11.0
+commons-validator:commons-validator:1.7
